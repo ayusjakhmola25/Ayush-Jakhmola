@@ -1,3 +1,4 @@
+https://github.com/ayusjakhmola25/Ayush-Jakhmola/blob/main/banner.jpg.png?raw=true
 <h1 align="center">Hi 👋, I'm Ayush Jakhmola.</h1>
 <h3 align="center">A passionate CSE Student from India.</h3>
 
