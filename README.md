@@ -1,4 +1,4 @@
-![logo](https://github.com/ayusjakhmola25/ayusjakhmola25/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png)
+![logo](https://github.com/ayusjakhmola25/ayusjakhmola25/blob/main/Cyber security professional banner design.png)
 
 ---
 <h1 align="center">Hi 👋, I'm Ayush Jakhmola</h1>
