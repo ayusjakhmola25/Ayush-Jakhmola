@@ -9,7 +9,7 @@
 
 <p align="center">
 🛡️ Aspiring Penetration Tester <br>
-⚔️ Ethical Hacking | Vulnerability Assessment | Network Security <br>
+⚔️ Ethical Hacker | Vulnerability Assessment | Network Security <br>
 🚀 Building Real-World Security & Exploitation Skills
 </p>
 
