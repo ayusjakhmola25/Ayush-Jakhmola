@@ -1,4 +1,4 @@
-![logo](https://github.com/ayusjakhmola25/ayusjakhmola25/blob/main/Cyber security professional banner design.png)
+<img src="https://raw.githubusercontent.com/ayusjakhmola25/ayusjakhmola25/main/Cybersecurityprofessionalbanne%20design.png" />
 
 ---
 <h1 align="center">Hi 👋, I'm Ayush Jakhmola</h1>
